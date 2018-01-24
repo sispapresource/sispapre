@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "scripts": {
+        "prod": "gulp --production",
+        "dev": "gulp watch"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "laravel-elixir": "^5.0.0"
+    },
+    "dependencies": {
+        "animate.css": "^3.5.2",
+        "bootstrap": "^3.3.7",
+        "bootstrap-datepicker": "^1.7.1",
+        "bootstrap-sass": "^3.0.0",
+        "chosen-js": "^1.8.3",
+        "datatables": "^1.10.13",
+        "font-awesome": "^4.7.0",
+        "free-jqgrid": "^4.6.2",
+        "jquery": "2.1.1",
+        "jquery-autocomplete": "^1.2.1",
+        "jquery-ui": "1.12.1",
+        "multiple-select": "^1.2.1",
+        "sweetalert": "^2.1.0",
+        "sweetalert2": "^7.6.2",
+        "toastr": "^2.1.4"
+    }
+}
